@@ -1,2 +1,3 @@
 irm https://get.activated.win | iex
 Po prostu odpal w powershelf jako administrator polecam (4)
+NIE MOJE NOT MINE!!!
