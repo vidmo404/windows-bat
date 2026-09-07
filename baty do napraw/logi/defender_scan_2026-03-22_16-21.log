@@ -1,0 +1,67 @@
+========================================== 
+[22.03.2026 16:21:04,87] Szybki skan 
+========================================== 
+Start-MpScan : A scan is already in progress on this device.
+At line:1 char:1
++ Start-MpScan -ScanType QuickScan
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : MetadataError: (MSFT_MpScan:ROOT\Microsoft\...der\MSFT_MpScan) [Start-MpScan], CimExcept 
+   ion
+    + FullyQualifiedErrorId : MI RESULT 16,Start-MpScan
+ 
+========================================== 
+[22.03.2026 16:21:23,23] Raport statusu Defendera 
+========================================== 
+Status:
+
+
+AMServiceEnabled              : True
+AntispywareEnabled            : True
+AntivirusEnabled              : True
+BehaviorMonitorEnabled        : True
+IoavProtectionEnabled         : True
+NISEnabled                    : True
+RealTimeProtectionEnabled     : True
+QuickScanStartTime            : 22.03.2026 14:39:41
+QuickScanEndTime              : 22.03.2026 14:40:23
+FullScanStartTime             : 
+FullScanEndTime               : 
+AntivirusSignatureLastUpdated : 22.03.2026 08:33:54
+
+
+
+Threats:
+
+ActionSuccess AdditionalActionsBitMask AMProductVersion CleaningActionID CurrentThreatExecutionStatusID DetectionID    
+------------- ------------------------ ---------------- ---------------- ------------------------------ -----------    
+         True                        0 4.18.26010.5                    3                              0 {9238AC86-4C...
+
+
+========================================== 
+[22.03.2026 16:21:34,10] Raport statusu Defendera 
+========================================== 
+Status:
+
+
+AMServiceEnabled              : True
+AntispywareEnabled            : True
+AntivirusEnabled              : True
+BehaviorMonitorEnabled        : True
+IoavProtectionEnabled         : True
+NISEnabled                    : True
+RealTimeProtectionEnabled     : True
+QuickScanStartTime            : 22.03.2026 14:39:41
+QuickScanEndTime              : 22.03.2026 14:40:23
+FullScanStartTime             : 
+FullScanEndTime               : 
+AntivirusSignatureLastUpdated : 22.03.2026 08:33:54
+
+
+
+Threats:
+
+ActionSuccess AdditionalActionsBitMask AMProductVersion CleaningActionID CurrentThreatExecutionStatusID DetectionID    
+------------- ------------------------ ---------------- ---------------- ------------------------------ -----------    
+         True                        0 4.18.26010.5                    3                              0 {9238AC86-4C...
+
+
